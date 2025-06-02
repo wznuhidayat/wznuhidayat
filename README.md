@@ -16,11 +16,6 @@ Currently, I'm working full-time at a **publishing company**, where I help impro
 
 ## 🧠 Skills
 
-### 🔧 Core Skillset
-- Full-Stack Web Development  
-- Frontend & Backend Development  
-- Problem Solving
-
 ### 💻 Programming Languages  
 <p>
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
