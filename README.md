@@ -40,16 +40,3 @@ Currently, I'm working full-time at a **publishing company**, where I help impro
 - Linux  
 - Docker
 
----
-
-## 🚀 Let's Connect!
-
-Feel free to check out my portfolio or get in touch:
-
-🌐 **Website:** [www.wisnuh.com](https://www.wisnuh.com)  
-📧 **Email:** muhwisnuhidayat@gmail.com  
-📱 **Phone:** +62 831 4435 3355  
-
----
-
-> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
