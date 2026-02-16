@@ -1,7 +1,7 @@
 # 👨‍💻 Muhammad Wisnu Hidayat
 
 **Full-Stack Web Developer**  
-🌍 [www.wisnuh.com](https://www.wisnuh.com) • 📞 +62 831 4435 3355 • 📧 muhwisnuhidayat@gmail.com  
+🌍 [wznu.web.id](https://wznu.web.id) • 📞 +62 831 4435 3355 • 📧 muhwisnuhidayat@gmail.com  
 📍 Gresik, East Java, Indonesia
 
 ---
